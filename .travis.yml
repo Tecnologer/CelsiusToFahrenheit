@@ -1,6 +1,1 @@
-{
-  "language": "c++",
-  "os": "windows",
-  "group": "stable",
-  "dist": "trusty"
-}
+language: c++

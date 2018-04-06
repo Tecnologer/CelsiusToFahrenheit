@@ -1,1 +1,6 @@
-
+{
+  "language": "c++",
+  "os": "linux",
+  "group": "stable",
+  "dist": "trusty"
+}

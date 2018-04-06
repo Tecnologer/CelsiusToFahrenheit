@@ -1,6 +1,6 @@
 {
   "language": "c++",
-  "os": "linux",
+  "os": "windows",
   "group": "stable",
   "dist": "trusty"
 }
